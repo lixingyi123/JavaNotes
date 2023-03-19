@@ -1,2 +1,2 @@
-# images
-照片存储
+# Java知识点存储
+Java基础
