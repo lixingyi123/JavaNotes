@@ -1,7 +1,5 @@
 <p align = "center" ><font size = 10， color = "#009999">Java-basic1</font></p>
 
-[toc]
-
 ## 1、Java基础概述
 
 ### 1.1 Java语言概述
